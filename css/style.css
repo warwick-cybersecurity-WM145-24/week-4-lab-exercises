@@ -1,0 +1,14 @@
+img {
+  border-radius: 50%;
+  max-height: 30vh;
+}
+
+header {
+  background-color: blueviolet;
+  align-items: center;
+}
+
+h1 {
+  padding: 6vh;
+  font-weight: bold;
+}
