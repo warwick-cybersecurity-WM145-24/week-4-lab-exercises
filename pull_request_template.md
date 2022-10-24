@@ -1,14 +1,11 @@
 ## Summary
-Give a brief summary of the changes.
+I have added information about me to the index page
 
 ## What
-List what have you done
-[ ] Task one
-[ ] Task two
-[ ] Task three
+The changes are that there is now information in the about me for each section
 
 ## Why
-Explain why you did the change
+did change to personalise website
 
 ## Test
-Provide a description on how you your changes can be tested
+load up the html page and see if the changes with the description about me are loaded and formatted correctly
