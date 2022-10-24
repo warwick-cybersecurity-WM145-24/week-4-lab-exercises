@@ -1,5 +1,5 @@
 ## Summary
-Give a brief summary of the changes.
+did a little thing
 
 ## What
 List what have you done
